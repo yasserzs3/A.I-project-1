@@ -1,0 +1,6 @@
+numpy~=1.19.2
+pygame~=1.9.6
+neat-python
+graphviz~=0.14.1
+matplotlib
+neat~=0.4.1
